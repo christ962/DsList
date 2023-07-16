@@ -1,4 +1,4 @@
-package com.devsuperior.dslist;
+package com.devsuperior.dslist.controller;
 
 import java.util.List;
 
